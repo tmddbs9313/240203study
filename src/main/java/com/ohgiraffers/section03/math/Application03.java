@@ -20,6 +20,8 @@ public class Application03 {
 
         int randomNumber = random.nextInt(10);
         System.out.println("0부터 9까지의 난수 : "  + randomNumber);
+
+
     }
 
 }
